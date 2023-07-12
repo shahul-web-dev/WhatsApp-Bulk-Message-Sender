@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "puppeteer": "^20.8.1",
     "xlsx-populate": "^1.21.0"
   }
 }
