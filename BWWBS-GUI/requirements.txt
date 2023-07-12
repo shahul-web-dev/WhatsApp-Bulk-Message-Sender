@@ -1,5 +1,0 @@
-tkinter-tooltip
-requests
-openpyxl
-tk-tools
-requests
